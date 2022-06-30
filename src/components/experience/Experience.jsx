@@ -8,6 +8,7 @@ const Experience = () => {
       <h5>What skills i have</h5>
       <h2>My experience</h2>
 
+      {/* FRONTEND */}
       <div className="container experience__container">
         <div className="experience__frontend">
           <h3>Frontend Development</h3>
@@ -51,6 +52,7 @@ const Experience = () => {
         </div>
         {/* END OF FRONTEND */}
 
+        {/* BACKEND */}
         <div className="experience__backend">
           <h3>BackEnd Development</h3>
           <div className="experience__content">
